@@ -4,8 +4,12 @@ import { Grid } from '@material-ui/core';
 import Product from './Product/Product';
 
 const products =[
-    { id: 1, name: 'Shoes', description: 'Running shoes.', price: '$5', image: 'https://cdn.profoto.com/cdn/0521d92/contentassets/1e544f28642049edbc15c83e5591500f/001profoto-b1-micheal-scholz-rising-star-600px-03-600x471.jpg?width=2840&quality=75&format=jpg' },
-    { id: 2, name: 'Macbook', description: 'Apple macbook.', price: '$10', image: 'https://shoptime.pk/images/thumbs/0000024_apple-macbook-pro-13-inch_550.jpeg' },
+    { id: 1, name: 'Shoes', description: 'Running shoes.', price: '$50', image: 'https://cdn.profoto.com/cdn/0521d92/contentassets/1e544f28642049edbc15c83e5591500f/001profoto-b1-micheal-scholz-rising-star-600px-03-600x471.jpg?width=2840&quality=75&format=jpg' },
+    { id: 2, name: 'Macbook', description: 'Apple macbook.', price: '$1000', image: 'https://www.patentlyapple.com/.a/6a0120a5580826970c01bb08bb23a0970d-pi' },
+    { id: 1, name: 'Shoes', description: 'Running shoes.', price: '$50', image: 'https://cdn.profoto.com/cdn/0521d92/contentassets/1e544f28642049edbc15c83e5591500f/001profoto-b1-micheal-scholz-rising-star-600px-03-600x471.jpg?width=2840&quality=75&format=jpg' },
+    { id: 2, name: 'Macbook', description: 'Apple macbook.', price: '$1000', image: 'https://www.patentlyapple.com/.a/6a0120a5580826970c01bb08bb23a0970d-pi' },
+    { id: 1, name: 'Shoes', description: 'Running shoes.', price: '$50', image: 'https://cdn.profoto.com/cdn/0521d92/contentassets/1e544f28642049edbc15c83e5591500f/001profoto-b1-micheal-scholz-rising-star-600px-03-600x471.jpg?width=2840&quality=75&format=jpg' },
+    { id: 2, name: 'Macbook', description: 'Apple macbook.', price: '$1000', image: 'https://www.patentlyapple.com/.a/6a0120a5580826970c01bb08bb23a0970d-pi' },
 ];
 
 const Products = () => {
